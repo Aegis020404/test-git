@@ -1,5 +1,5 @@
 console.log('Happy developing ✨')
-console.log('r+rc')
+console.log('r+rcRC')
 console.log('mer1')
 console.log('mer2')
 console.log('mer3')
