@@ -1,5 +1,4 @@
 console.log('Happy developing ✨')
-console.log('reb2')
 console.log('reb3')
 console.log('mer1')
 console.log('mer2')
